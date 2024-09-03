@@ -1,0 +1,4 @@
+/chat_app/fontend/node_modules/*
+/chat_app/backend/node_modules/*
+/todo_app/fontend/node_modules/*
+/todo_app/backend/node_modules/*
